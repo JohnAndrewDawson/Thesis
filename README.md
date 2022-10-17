@@ -1,5 +1,5 @@
 # Thesis
-Thesis deliverables - Containing all functions required to create or modify snow depth on sea ice interpolations
+Thesis deliverables - Containing all functions required to create or modify snow depth on sea ice climetologies
 
 Full thesis can be found at the Cold Climate Enginnering website https://aaltodoc.aalto.fi/bitstream/handle/123456789/116372/master_Dawson_John_2022.pdf?sequence=2&isAllowed=y
 
