@@ -56,7 +56,7 @@ trend_a - Creates Trend Analysis interpolations.
 The MATLAB codes were added to the thesis using a package created by Florian Knorn
 available on the MATLAB file exchange [57].
 
-[56] Adam Auton (2022). Red Blue Colormap (https://www.mathworks.com/matlabcentral/fileexchange/25536redbluecolormap),MATLAB Central File Exchange. Retrieved July 1, 2022.
+[56] Adam Auton (2022). Red Blue Colormap (https://www.mathworks.com/matlabcentral/fileexchange/25536redbluecolormap), MATLAB Central File Exchange. Retrieved July 1, 2022.
 
 
 [57] Florian Knorn (2022). Mcode LaTeX Package (https://www.mathworks.com/matlabcentral/fileexchange/8015mcodelatexpackage), MATLAB Central File Exchange. Retrieved July 1, 2022.
