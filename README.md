@@ -17,7 +17,9 @@ Buoy - Loads and preprocesses CRREL data.
 
 comparison - Creates difference maps and histograms of two inputted climatologies or data sets.
 
-Cryo - Loads and preprocesses British Antarctic Survey CryoSat2 data including loading the SnowModelLG, the w99m climatology, and the w99 climatology. distfun Calculates great circle distance called by other functions.
+Cryo - Loads and preprocesses British Antarctic Survey CryoSat2 data including loading the SnowModelLG, the w99m climatology, and the w99 climatology. 
+
+distfun - Calculates great circle distance called by other functions.
 
 Grid - Replaces latitude and longitude coordinates of inputted data to Ease Grid 2.0.
 
